@@ -1,6 +1,5 @@
 public class SkillDemo {
-
-
-//go to vscode
-
+    static String helloName(String name) {
+        return "hello " + name;
+    }
 }
